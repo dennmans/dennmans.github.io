@@ -1,9 +1,5 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Blog"
+    url: http://mansell.nl
   - title: "About"
-    url: /about/
+    url: http://www.mansell.nl/p/about.html
