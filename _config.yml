@@ -59,6 +59,7 @@ author:
   name   : "Dennis Mansell"
   avatar : "/assets/images/gladwell_headshot.jpg"
   bio    : "Uncovering better ways of working, together."
+  fediverse: "@dennmans@waag.social"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
