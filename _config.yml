@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dennis Mansell Portfolio
+title: Dennis Mansell
 email: dennis@mansell.nl
 description: >- # this means to ignore newlines until "baseurl:"
- Dennis is a sailor, activist and entrepreneur.  He leads organisational and technological changes.
-twitter_username: username
+ Dennis is an ex-professonal sailor, activist, consultant and entrepreneur.  He leads organisational and technological changes and founded the tech-cooperative Fonetic
 github_username: dennmans
 minimal_mistakes_skin: air
 search: true
